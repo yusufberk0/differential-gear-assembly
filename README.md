@@ -77,7 +77,7 @@ Pitch diameter = module × number of teeth.
 ## Design approach
 
 - The gear set uses a common module of 5 mm and a 20° pressure angle.
-- Compared with the reference setup, I removed an extra gear, fixed the meshing of a gear pair that did not engage, and designed the cover myself.
+- Compared with the reference setup, I removed an extra gear, fixed the meshing of a gear pair that did not engage, and designed the flange and rear cover myself.
 - The ring gear was extended with shaft slots, cut-outs and shaft connection holes to integrate it with the carrier and housing.
 - The exploded view documents the assembly order and shows how every part fits.
 
