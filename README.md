@@ -38,8 +38,10 @@ SolidWorks model of a bevel-gear differential: ring gear mounted on a carrier, s
 
 ## Animations
 
-<img width="800" height="381" alt="Differential_gear_assembly_exploded" src="https://github.com/user-attachments/assets/5c3d30b2-e31b-452a-9bd5-3169ef389142" />
+  
+![Differential animation](media/Differential_gear_assembly.gif)
 
+![Exploded view animation](media/Differential_gear_assembly_exploded.gif)
 
 
 
